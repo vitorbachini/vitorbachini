@@ -1,8 +1,10 @@
-## Opa! Eu sou o Vitor Bachini
+## Opa! Seja bem-vindo!
+
+- 🖥️ Desenvolvedor Full-Stack
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=vitorbachini&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbachini&layout=compact&langs_count=8&theme=merko"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vitorbachini&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbachini&layout=compact&langs_count=8&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
